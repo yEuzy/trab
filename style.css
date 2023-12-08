@@ -1,0 +1,52 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+body{
+    background-image: url(fundo.jpeg);
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #1a1a1a;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+.container{
+    padding-left: 50px;
+    font-size: 50px;
+}
+
+
+#butaoluffy img{
+    width: 260px;
+    height: 260px;
+}
+
+#butaoluffy{
+    margin-top: 74px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#butaoluffy > #botao a{
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#butaoluffy > #botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

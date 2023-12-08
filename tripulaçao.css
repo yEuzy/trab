@@ -1,0 +1,52 @@
+body{
+    background-image: url("fundo-2.png") ;
+}
+
+#esquerda {
+    margin-top: 60px;
+    margin-right: 50px;
+    float: left;
+}
+#direita{
+    transform: scaleX(-1);
+    margin-top: 50px;
+    margin-right: 50px;
+    float: right;
+}
+
+#meio{
+    width: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+#meio img{
+    width: 800px;
+    height: 600px;
+}
+
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#no-ac{
+    display: flex;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 70px;
+    align-items: center;
+}
+
+h4 {
+    display: flex;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
