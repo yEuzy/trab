@@ -20,7 +20,7 @@ body{
 #backlog::before{
       content: '';
       width: 300px;
-      height: 600px;
+      height: 650px;
       position: absolute;
       background-color: #1a1a1a;
       animation: 4s rodar linear infinite;
