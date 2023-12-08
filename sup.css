@@ -5,6 +5,7 @@
 body{
       background-color: #1a1a1a ;
       position: fixed;
+      overflow: hidden;
 }
 
 #backlog{
