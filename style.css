@@ -25,8 +25,8 @@ h1{
 
 
 #butaoluffy img{
-    width: 260px;
-    height: 260px;
+    width: 270px;
+    height: 270px;
 }
 
 #butaoluffy{
@@ -35,7 +35,6 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    display: none;
 }
 
 #butaoluffy > #botao a{
